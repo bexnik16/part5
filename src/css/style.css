@@ -1,0 +1,168 @@
+.div1{
+
+    margin-left: 20px;
+    background-color: silver;
+    width: 100%;
+    padding: 20px;
+}
+a{
+    margin-left: 20px;
+    text-decoration: none;
+    color:black;
+}
+.div2{
+    padding: 30px;
+}
+
+.div2 .a2 {
+    color:blue;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.div i{
+    color:blue;
+    display: flex;
+    justify-content: flex-end;
+}
+ 
+ .div3{
+    padding: 30px;
+
+ }
+ 
+ @media screen and (min-width: 768px)  {
+    .div1{
+
+        margin-left: 20px;
+        background-color: silver;
+        width: 100%;
+        padding: 20px;
+    }
+    a{
+        margin-left: 20px;
+        text-decoration: none;
+        color:black;
+    }
+    .div2{
+        padding: 30px;
+    }
+    
+    .div2 .a2 {
+        color:blue;
+        display: flex;
+        justify-content: flex-end;
+    }
+    
+    .div i{
+        color:blue;
+        display: flex;
+        justify-content: flex-end;
+    }
+     
+     .div3{
+        padding: 30px;
+    
+     }
+     .div1{
+
+        margin-left: 20px;
+        background-color: silver;
+        width: 100%;
+        padding: 20px;
+    }
+    a{
+        margin-left: 20px;
+        text-decoration: none;
+        color:black;
+    }
+    .div2{
+        padding: 30px;
+    }
+    
+    .div2 .a2 {
+        color:blue;
+        display: flex;
+        justify-content: flex-end;
+    }
+    
+    .div i{
+        color:blue;
+        display: flex;
+        justify-content: flex-end;
+    }
+     
+     .div3{
+        padding: 30px;
+    
+     }
+         
+ }
+
+ @media screen and (max-width: 1024px)  {
+    .div1{
+
+        margin-left: 20px;
+        background-color: silver;
+        width: 100%;
+        padding: 20px;
+    }
+    a{
+        margin-left: 20px;
+        text-decoration: none;
+        color:black;
+    }
+    .div2{
+        padding: 30px;
+    }
+    
+    .div2 .a2 {
+        color:blue;
+        display: flex;
+        justify-content: flex-end;
+    }
+    
+    .div i{
+        color:blue;
+        display: flex;
+        justify-content: flex-end;
+    }
+     
+     .div3{
+        padding: 30px;
+    
+     }
+     .div1{
+
+        margin-left: 20px;
+        background-color: silver;
+        width: 100%;
+        padding: 20px;
+    }
+    a{
+        margin-left: 20px;
+        text-decoration: none;
+        color:black;
+    }
+    .div2{
+        padding: 30px;
+    }
+    
+    .div2 .a2 {
+        color:blue;
+        display: flex;
+        justify-content: flex-end;
+    }
+    
+    .div i{
+        color:blue;
+        display: flex;
+        justify-content: flex-end;
+    }
+     
+     .div3{
+        padding: 30px;
+    
+     }
+         
+ }
